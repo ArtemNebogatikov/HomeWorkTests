@@ -1,0 +1,17 @@
+﻿using HomeWorkTests;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HomeWorkTests
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+
+        }
+    }
+}
